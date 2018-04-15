@@ -1,0 +1,17 @@
+INSERT INTO test.user (NAME, AGE, ISADMIN) VALUES ('Andrey', '25', b'1');
+INSERT INTO test.user (NAME, AGE, ISADMIN) VALUES ('Semen', '22', b'0');
+INSERT INTO test.user (NAME, AGE, ISADMIN) VALUES ('Alexandra', '28', b'0');
+INSERT INTO test.user (NAME, AGE, ISADMIN) VALUES ('Anatoliy', '29', b'0');
+INSERT INTO test.user (NAME, AGE, ISADMIN) VALUES ('Tom', '45', b'1');
+INSERT INTO test.user (NAME, AGE, ISADMIN) VALUES ('Jake', '25', b'1');
+INSERT INTO test.user (NAME, AGE, ISADMIN) VALUES ('Anna', '67', b'1');
+INSERT INTO test.user (NAME, AGE, ISADMIN) VALUES ('Alice', '44', b'0');
+INSERT INTO test.user (NAME, AGE, ISADMIN) VALUES ('Andrey', '32', b'0');
+INSERT INTO test.user (NAME, AGE, ISADMIN) VALUES ('Max', '38', b'0');
+INSERT INTO test.user (NAME, AGE, ISADMIN) VALUES ('Asus', '17', b'1');
+INSERT INTO test.user (NAME, AGE, ISADMIN) VALUES ('Intel', '33', b'1');
+INSERT INTO test.user (NAME, AGE, ISADMIN) VALUES ('Microsoft', '27', b'1');
+INSERT INTO test.user (NAME, AGE, ISADMIN) VALUES ('Htc', '52', b'0');
+INSERT INTO test.user (NAME, AGE, ISADMIN) VALUES ('Sergey', '30', b'1');
+INSERT INTO test.user (NAME, AGE, ISADMIN) VALUES ('Oleg', '19', b'0');
+INSERT INTO test.user (NAME, AGE, ISADMIN) VALUES ('Olga', '26', b'1');
